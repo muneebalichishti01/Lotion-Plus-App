@@ -1,5 +1,6 @@
 # Lotion-Plus-App
 Lotion is like an EverNote react.js application. This lotion-plus version includes AWS backend infrastructure to store the info for every email!
+## Navigate to: https://qazi-and-muneeb-lotion-plus.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b88d104c-2890-46e1-8b42-ba38ab4b6399/deploy-status)](https://app.netlify.com/sites/lotion-ensf381/deploys)
 
