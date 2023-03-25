@@ -1,7 +1,1 @@
 node_modules
-infra/.terraform
-infra/.terraform.lock.hcl
-infra/delete-artifact.zip
-infra/get-artifact.zip
-infra/save-artifact.zip
-infra/terraform.tfstate
