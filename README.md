@@ -20,6 +20,9 @@ NOTE: Used [Netlify](https://www.netlify.com/) to deploy the application
 - Clone the repo
 - Make sure you're inside the root directory of the repo and then run `npm install` to install all the necessary packages
 - Run `npm start` and you should be able to see the page open up on your default browser
+
+## 📝Details
+
 - Added infrastructure code in the `main.tf` file
 - Added function code for the `get-notes-<your-ucid>` function in the [`functions/get-notes/main.py`](functions/get-notes/main.py) file
 - Added function code for the `save-note-<your-ucid>` function in the [`functions/save-note/main.py`](functions/save-note/main.py) file
